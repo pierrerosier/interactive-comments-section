@@ -1,0 +1,22 @@
+{
+  "name": "interactive-comments-section",
+  "version": "1.0.0",
+  "main": "main.jsx",
+  "repository": "https://pierrerosier@github.com/pierrerosier/interactive-comments-section.git",
+  "author": "pierrerosier <contact@pierrerosier.fr>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.14"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.0",
+    "bootstrap": "^5.1.3",
+    "font-awesome": "^4.7.0",
+    "sass": "^1.44.0"
+  }
+}
